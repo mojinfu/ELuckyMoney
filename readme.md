@@ -23,7 +23,7 @@
     请求Body：
     {
         "name": "摸金符",                
-        "phone": "15967184143",
+        "phone": "15967181234",
         "e_url": "https://h5.ele.me/hongbao/?from=singlemessage&isappinstalled=0#hardware_id=&is_lucky_group=True&lucky_number=9&track_id=&platform=0&sn=29e55676462cf442&theme_id=2097&device_id="
     }   
 
@@ -33,4 +33,6 @@
         2. phone：使用者的饿了么红包账户
         3. e_url：一个饿了么红包的链接。 （在浏览器中打开时的URL）
 
-        
+
+                                                                                ------Auther  mojinfu
+                                                                                E: mynameless@foxmail.com
