@@ -10,7 +10,7 @@ import (
 	//"hash/crc32"
 	"os"
 	"path/filepath"
-	//"rlog"
+	//"github.com/rlds/rlog"
 	//"strconv"
 	"time"
 

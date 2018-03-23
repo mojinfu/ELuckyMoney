@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/rand"
 	"encoding/json"
-	"rlog"
+	"github.com/rlds/rlog"
 	"net/url"
 	"strconv"
 	"time"

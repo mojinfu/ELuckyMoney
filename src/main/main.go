@@ -6,7 +6,7 @@ import (
 	"time"
 	"encoding/json"
 	. "ELuckyMoney/src/loadFile"
-	"rlog"
+	"github.com/rlds/rlog"
 	"net/http"
 	"ELuckyMoney/src/UselessHelper"
 	"io/ioutil"
