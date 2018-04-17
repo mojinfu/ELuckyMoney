@@ -39,7 +39,10 @@
 ### 结果实例
     接口返回：lucky success!!
     红包状态：
-![Alt text](case.jpeg){:height="40%" width="40%"}
+<div align=center>
+<img src="case.jpeg" width="40%" height="40%" />
+</div>
+
 
 
                                                                                 ------Auther  mojinfu
