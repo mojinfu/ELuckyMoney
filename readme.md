@@ -33,6 +33,11 @@
         2. phone：使用者的饿了么红包账户
         3. e_url：一个饿了么红包的链接。 （在浏览器中打开时的URL）
 
+### CURL 请求实例
+    curl -H "Content-Type:application/json" -X POST --data '{"name":"","phone":"15967181234","e_url":"https://h5.ele.me/hongbao/#hardware_id=&is_lucky_group=True&lucky_number=7&track_id=&platform=0&sn=29eebd0f35acf459&theme_id=2345&device_id=&refer_user_id=4339802"}' http://127.0.0.1:39383/e/luckymoney
+
+
+
 
                                                                                 ------Auther  mojinfu
                                                                                 E: mynameless@foxmail.com
