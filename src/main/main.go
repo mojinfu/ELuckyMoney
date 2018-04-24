@@ -123,7 +123,8 @@ func Get_E_LuckyMoney(w http.ResponseWriter, r *http.Request){
 			rlog.V(1).Info("myluckydoorReturnJsonStruct json.Unmarshal:",err)
 			rlog.V(1).Info("myluckydoorreturnjson:"+myluckydoorreturnjson)
 			fmt.Fprint(w,"something err!!")
-			break 
+			//break 
+			continue
 		}
 		rlog.V(1).Info("lucky ranking-----------:",myELuckyMoney.lucky_number)
 		rlog.V(1).Info("now ranking-------------:",len(myluckydoorReturnJsonStruct.Promotion_records))
